@@ -31,6 +31,7 @@ div
     width: 400px;
     height: 400px;
     padding: 0;
+    border-radius: 5px;
 }
 
 .bloco
@@ -39,6 +40,8 @@ div
     width: 200px;
     height: 200px;
     border: 0;
+    padding: 0;
+    border-radius: 5px;
 }
 
 .b1
