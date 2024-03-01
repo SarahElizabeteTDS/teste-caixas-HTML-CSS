@@ -1,0 +1,71 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background: #35374B;
+    color: #FFFFFF; /* cor da letra */
+}
+
+div 
+{
+    background: #50727B;
+    margin: 20px;
+    padding: 20px;
+    border: solid 3px #50727B;
+    border-radius: 20px;
+}
+
+.caixasMenores
+{
+    background: #344955;
+    border: solid 3px #344955;
+    width: 40%;
+}
+
+.conteiner
+{
+    width: 400px;
+    height: 400px;
+    padding: 0;
+}
+
+.bloco
+{
+    margin: 0;
+    width: 200px;
+    height: 200px;
+    border: 0;
+}
+
+.b1
+{
+    background: #7d82b8;
+    float: left;
+}
+
+
+.b2
+{
+    background: #696d9b;
+    float: right;
+}
+
+
+.b3
+{
+    background: #484b69;
+    float: left;
+}
+
+
+.b4
+{
+    background: #363850;
+    float: right;
+}
+
+
